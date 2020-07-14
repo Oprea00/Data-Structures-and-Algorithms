@@ -1,0 +1,9 @@
+﻿  Bag.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab5\SDA lab5\Bag.h(14,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\ubb\an2\sem2\SDA2\SDA lab5\SDA lab5\Bag.h(19,2): warning C4091: 'typedef ': ignored on left of 'HashTable' when no variable is declared
+E:\ubb\an2\sem2\SDA2\SDA lab5\SDA lab5\Bag.cpp(86,6): warning C4101: 'pos': unreferenced local variable
+  ExtendedTest.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab5\SDA lab5\Bag.h(14,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+E:\ubb\an2\sem2\SDA2\SDA lab5\SDA lab5\Bag.h(19,2): warning C4091: 'typedef ': ignored on left of 'HashTable' when no variable is declared
+  Generating Code...
+  SDA lab5.vcxproj -> E:\ubb\an2\sem2\SDA2\SDA lab5\Debug\SDA lab5.exe

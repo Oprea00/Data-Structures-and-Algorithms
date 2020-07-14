@@ -1,0 +1,13 @@
+﻿  App.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.h(14,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
+  ExtendedTest.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.h(14,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
+  ShortTest.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.h(14,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
+  SortedBag.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.h(14,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.cpp(17,11): warning C4101: 'parentNode': unreferenced local variable
+  SortedBagIterator.cpp
+E:\ubb\an2\sem2\SDA2\SDA lab6\SDA lab6\SortedBag.h(14,2): warning C4091: 'typedef ': ignored on left of 'BSTNode' when no variable is declared
+  Generating Code...
+  SDA lab6.vcxproj -> E:\ubb\an2\sem2\SDA2\SDA lab6\Debug\SDA lab6.exe
